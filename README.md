@@ -14,9 +14,9 @@ This is a basic environment needed to start a project using React-Redux and Type
 
 # Basic Steps
 1. Clone/Download the project
-2. In the root folder type using the command line:
-2.1 npm install
-2.2 npm run dev  to launch the app
-2.3 npm run prod to build up the bundle.js file
-2.4 npm test to run Jest
+In the root folder type using the command line:
+2. npm install
+3. npm run dev  to launch the app
+4. npm run prod to build up the bundle.js file
+5. npm test to run Jest
 
