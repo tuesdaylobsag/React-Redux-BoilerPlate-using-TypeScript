@@ -56,7 +56,7 @@ module.exports = {
   },
     plugins: [
             new HtmlWebpackPlugin({
-              title: 'React Redux TypeScript Github and more...',
+              title: 'React Redux Boilerplate using typescript',
               //minify:{
               //  collapseWhitespace: true,
               //},
